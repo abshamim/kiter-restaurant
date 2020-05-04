@@ -1,4 +1,3 @@
-
 @media only screen and (max-width: 1199px) {
     html {
         font-size: 59%;
@@ -28,11 +27,6 @@
 
     .container > p {
         width: 75%;
-    }
-
-    .kitchen-slider {
-        max-width: 68rem;
-        height: 40rem;
     }
 
     #header_part .menupart {
@@ -214,7 +208,7 @@
 }
 
 @media only screen and (max-width: 768px) {
-    
+
     html {
         font-size: 47%;
     }
@@ -222,19 +216,24 @@
     .container > p {
         width: 100%;
     }
+
     #header_part .menupart {
-    padding: .8rem 0;
+        padding: .8rem 0;
     }
+
     #header_part .menubar button {
         width: 4rem;
         height: 4rem;
     }
+
     #header_part .menubar button.sidebtn span {
         width: 2.5rem;
     }
+
     #header_part .menubar .logo img {
         width: 5rem;
     }
+
     .banner_part .owl_items1 .overlay .banner_content,
     .banner_part .owl_items2 .overlay .banner_content,
     .banner_part .owl_items3 .overlay .banner_content {
@@ -334,79 +333,6 @@
         width: 50%;
     }
 
-    #kitchen_experts {
-        padding-top: 5rem;
-        padding-bottom: 0rem;
-    }
-
-    .kitchen-slider {
-        height: auto;
-        margin: 25rem auto 6rem auto;
-        width: 59rem;
-    }
-
-    .kitchen-slider__pagination {
-        top: 0rem;
-    }
-
-    .kitchen-slider__img img {
-        width: 55%;
-    }
-
-    .kitchen-slider__img {
-        width: 95%;
-        height: auto;
-    }
-
-    .kitchen-slider__item {
-        -webkit-box-orient: vertical;
-        -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-        flex-direction: column;
-    }
-
-    .kitchen-slider__img {
-        -webkit-transform: translateY(-50%);
-        transform: translateY(-50%);
-        width: 90%;
-    }
-
-    .kitchen-slider__content {
-        margin-top: -8rem;
-        text-align: center;
-        padding: 0 3rem;
-    }
-
-    .kitchen-slider__pagination {
-        -webkit-transform: translateX(-50%);
-        transform: translateX(-50%);
-        left: 50% !important;
-        top: 31rem;
-        width: 100% !important;
-        display: -webkit-box;
-        display: -ms-flexbox;
-        display: flex;
-        -webkit-box-pack: center;
-        -ms-flex-pack: center;
-        justify-content: center;
-        -webkit-box-align: center;
-        -ms-flex-align: center;
-        align-items: center;
-    }
-
-    .kitchen-slider__pagination.swiper-pagination-bullets .swiper-pagination-bullet {
-        margin: 0 0.5rem;
-    }
-
-    .kitchen-slider .kitchen-slider__item .social_icon i {
-        margin-bottom: 1rem;
-    }
-
-    .kitchen-slider__pagination .swiper-pagination-bullet-active {
-        height: 1.1rem;
-        width: 3rem;
-    }
-
     #statistics_part .statistics_counter {
         grid-gap: 5rem;
         grid-template-columns: auto auto;
@@ -463,7 +389,7 @@
 }
 
 @media only screen and (max-width: 576px) {
-    
+
     html {
         font-size: 45%;
     }
@@ -571,28 +497,6 @@
     #food_gallery .gallery-item {
         width: 100%;
     }
-
-    .kitchen-slider__button {
-        width: 100%;
-    }
-
-    .kitchen-slider {
-        margin: 15rem auto 6rem auto;
-        width: 40rem;
-    }
-
-    .kitchen-slider__pagination {
-        top: 20.5rem;
-    }
-
-    .kitchen-slider__content {
-        padding: 0;
-    }
-
-    .kitchen-slider__img {
-        width: 95%;
-    }
-
     #statistics_part .statistics_counter {
         grid-template-columns: auto;
     }

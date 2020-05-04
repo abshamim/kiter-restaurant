@@ -462,7 +462,7 @@
     .banner_part .full_page_slider .owl-carousel .owl_items1,
     .banner_part .full_page_slider .owl-carousel .owl_items2,
     .banner_part .full_page_slider .owl-carousel .owl_items3 {
-        height: 70vh;
+        height: 100vh;
     }
 
     .banner_part .full_page_slider .owl-carousel .owl-nav button.owl-next,

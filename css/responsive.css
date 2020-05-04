@@ -229,7 +229,19 @@
     .container > p {
         width: 100%;
     }
-
+    #header_part .menupart {
+    padding: .8rem 0;
+    }
+    #header_part .menubar button {
+        width: 4rem;
+        height: 4rem;
+    }
+    #header_part .menubar button.sidebtn span {
+        width: 2.5rem;
+    }
+    #header_part .menubar .logo img {
+        width: 5rem;
+    }
     .banner_part .owl_items1 .overlay .banner_content,
     .banner_part .owl_items2 .overlay .banner_content,
     .banner_part .owl_items3 .overlay .banner_content {

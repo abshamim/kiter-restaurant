@@ -598,7 +598,7 @@ h1 {
 }
 
 #food_packages .packages_section .owl-theme .owl-nav [class*="owl-"]:hover {
-    background: #fff;
+    background: transparent;
     color: #fff;
 }
 

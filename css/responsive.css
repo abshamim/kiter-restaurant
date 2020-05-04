@@ -214,6 +214,14 @@
 }
 
 @media only screen and (max-width: 768px) {
+    a:hover,
+    i:hover,
+    button:hover,
+    div:hover {
+        background: none;
+        color: none;
+    }
+    
     html {
         font-size: 47%;
     }
@@ -450,6 +458,14 @@
 }
 
 @media only screen and (max-width: 576px) {
+    a:hover,
+    i:hover,
+    button:hover,
+    div:hover {
+        background: none;
+        color: none;
+    }
+    
     html {
         font-size: 45%;
     }
